@@ -1,0 +1,14 @@
+.background    { background: rgb(40, 40, 40);
+                 table-layout: fixed;
+                 border-spacing: 2;   }
+.background td { padding: rgb(40, 40 , 40); }
+.lava          { background-image: url("https://78.media.tumblr.com/4ec3ed04e763ea947651a358fedf71db/tumblr_p5avbwmdBs1s5fsqro1_r1_75sq.gif"); }
+.wall          { background-image: url("https://78.media.tumblr.com/ea636989f58d599fc25b70b96f1f3ffb/tumblr_p5avbwmdBs1s5fsqro2_r1_75sq.gif"); }
+.floater       {background: rgb(255,255,0); }
+
+.game {
+  overflow: hidden;
+  max-width: 600px;
+  max-height: 500px;
+  position: relative;
+}
